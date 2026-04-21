@@ -1,0 +1,7 @@
+*.txt
+
+qa_checkpoint.json
+topics/
+__pycache__/
+
+.env
