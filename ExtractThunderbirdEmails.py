@@ -8,8 +8,7 @@ from email.utils import parseaddr
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
 DEFAULT_MBOX_PATHS = [ 
-    r"C:\Users\user\AppData\Roaming\Thunderbird\Profiles\uct7fmqx.default-release\ImapMail\imap.gmail.com\Inbox",
-    r"C:\Users\user\AppData\Roaming\Thunderbird\Profiles\uct7fmqx.default-release\ImapMail\imap.gmail.com\Sent",
+   #### LOCATE LOCAL FILE ADDRESS IN HERE! #### 
 ]
 
 def decode_mime_header(raw):
