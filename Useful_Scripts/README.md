@@ -1,4 +1,4 @@
-This file extracts from the Email data from local Thunderbird.(Updating)
+This file extracts from the Email data from local Thunderbird_Work in progress
 
 ## Prerequisite to Use this Script
 
@@ -6,7 +6,8 @@ This file extracts from the Email data from local Thunderbird.(Updating)
   2) connect gmail account to Thunderbird account(Free)
 
 ## **How to Use:**
-  ## Easy:$ python ExtractThunderbirdEmails.py --sender "Email Address which you want to extract" > result.txt
+   Use Window powershell to run this command;
+     $ python ExtractThunderbirdEmails.py --sender "Email Address which you want to extract" > result.txt
 
 ## Limitation:
-  ## Not possible to all languages, if your language is not english, has to edit script or make different commands
+   Not possible to all languages, if your language is not english, has to edit script or make different commands
